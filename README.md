@@ -1,7 +1,7 @@
 ### Hi there, [Dharwin](https://www.linkedin.com/in/dharwin-j-ruppa)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
-![GitHub followers](https://img.shields.io/github/followers/Dharwin1422?style=social)
+![GitHub followers](https://img.shields.io/github/followers/DharwinJRuppa?style=social)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dharwin1422&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=DharwinJRuppa&style=flat-square)
 
 <p>
   <em>

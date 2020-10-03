@@ -13,7 +13,7 @@
 
 <em>
   
-**Talking about Personal Stuffs:**
+  **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a enthusiastic learner from [GOOGLE](https://www.google.com/);
 - 💼 I’m currently pursuing my 2nd year of Bachelor's degree in Computer Science and Engineering at [VCET](https://vcet.ac.in/);
@@ -22,5 +22,5 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via dharwinruppa1422@gmail.com to reach me;
   <br/>
-
+  
   </em>

@@ -16,7 +16,7 @@
   **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a enthusiastic learner from [GOOGLE](https://www.google.com/);
-- 💼 I’m currently pursuing my 2nd year of Bachelor's degree in Computer Science and Engineering at [VCET](https://vcet.ac.in/);
+- 💼 I’m currently pursuing my 2nd year of Bachelor's degree in Computer Science and Engineering at [Velammal College of Engineering and Technology](http://vcet.ac.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Shuttlecock 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of Aamir Khan <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;

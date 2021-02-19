@@ -45,7 +45,7 @@
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dharwin%20R%20V%20J-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharwin-j-ruppa)](https://www.linkedin.com/in/dharwin-r-v-j)
-[![Instagram Badge](https://img.shields.io/badge/-dharwin_r_v_j-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/dharwin_ruppa)](https://www.instagram.com/dharwin_r_v_j) 
+[![Instagram Badge](https://img.shields.io/badge/-dharwin__r__v__j-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/dharwin_ruppa)](https://www.instagram.com/dharwin_r_v_j) 
 [![Twitter Badge](https://img.shields.io/badge/-Dharwin%20R%20V%20J-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DharwinJRuppa)](https://twitter.com/dharwinrvj) 
 [![GitHub Badge](https://img.shields.io/badge/-Dharwin%20R%20V%20J-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/DharwinJRuppa)](https://github.com/DharwinRVJ) 
 [![Gmail Badge](https://img.shields.io/badge/-Dharwin%20R%20V%20J-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:dharwinruppa1422@gmail.com)](mailto:dharwinruppa1422@gmail.com)

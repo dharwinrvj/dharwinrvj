@@ -10,13 +10,6 @@
   </a>
  </p>
  
- ### Top Languages
-<p align="center">
-<a href = "https://github.com/DharwinRVJ">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=DharwinRVJ&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
-
 <p>
   <em>
     A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Madurai, India.
